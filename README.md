@@ -27,7 +27,9 @@ This repository contains a Power BI project (`e-store.pbix`) designed to analyze
 **Hamid Babayev**
 * Data Analyst | Backend Developer
 * GitHub: [BabayevHemid1](https://github.com/BabayevHemid1)
-* Example [Dashboard Preview] 
+* Example [Dashboard Preview] (https://github.com/BabayevHemid1/e-store/blob/main/Screenshot_2026-02-21_171542.png)
+* Example [Dashboard Preview] (https://github.com/BabayevHemid1/e-store/blob/main/Screenshot_2026-02-21_171602.png)
+* Example [Dashboard Preview] (https://github.com/BabayevHemid1/e-store/blob/main/Screenshot_2026-02-21_171612.png)
 
 ---
 *Feel free to explore the dashboard and reach out if you have any questions or feedback!*
